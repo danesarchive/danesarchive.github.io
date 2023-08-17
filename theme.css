@@ -1044,6 +1044,7 @@
  .flex-direction-nav li a {
    -webkit-transition: all 0.1s ease-in;
    transition: all 0.1s ease-in;
+   background-image: url("https://assets.bigcartel.com/theme_assets/6/2.6.1/images/slideshow_arrows.png");
    background-repeat: no-repeat;
    background-color: rgba(0, 0, 0, 0.7);
    background-size: 65px auto;
