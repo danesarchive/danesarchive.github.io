@@ -683,7 +683,7 @@
    -ms-flex-align: center;
    -webkit-align-items: center;
    align-items: center;
-   font-family: "Glegoo", serif;
+   font-family: 'Courier New', Courier, monospace;
    list-style: none;
    gap: 32px;
    margin: 0;
