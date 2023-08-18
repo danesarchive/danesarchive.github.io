@@ -1,0 +1,14 @@
+Library: arcade
+Play Mode: Single Player
+Languages: en
+Tags: ""
+Tag Categories: ""
+Source: http://skooldeliver.github.io/skool-games/monkey-mart/
+Primary Platform: Flash
+Platforms: Flash; HTML5
+Status: Playable
+Application Path: FPSoftware\Basilisk-Portable\Basilisk-Portable.exe
+Launch Command: http://skooldeliver.github.io/skool-games/monkey-mart/
+UUID: 1e924427-c369-4b46-b9a7-f0c5b4a5d51f
+Group: ""
+Additional Applications: {}
