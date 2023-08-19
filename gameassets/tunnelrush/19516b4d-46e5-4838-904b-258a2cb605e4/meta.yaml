@@ -1,0 +1,14 @@
+Library: arcade
+Play Mode: Single Player
+Languages: en
+Tags: ""
+Tag Categories: ""
+Source: http://skool.lol/cdn/tunnelrush/
+Primary Platform: Flash
+Platforms: Flash; HTML5
+Status: Playable
+Application Path: FPSoftware\Basilisk-Portable\Basilisk-Portable.exe
+Launch Command: http://skool.lol/cdn/tunnelrush/
+UUID: 43196b4d-3a29-410d-bef7-34064baaf62a
+Group: ""
+Additional Applications: {}
